@@ -1,4 +1,4 @@
-console.log("Created index file");
+HTMLFormControlsCollection("bug1");
 
 console.log("Feature B added ");
 
